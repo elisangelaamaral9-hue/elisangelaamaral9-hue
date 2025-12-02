@@ -1,8 +1,6 @@
-<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px;">
 
-<!-- GIF MULHER PROGRAMANDO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGsLO94CY0TjA/profile-displaybackgroundimage-shrink_350_1400/B4DZrgTG8YGQAY-/0/1764699698220?e=1766016000&v=beta&t=blDYfhl8S3h3ehIQ3KCGQH5DWrROgflCBNSA9ZSmIPI" width="250">
 </p>
 
 <h1 align="center">👋 Olá! Bem-vindo(a) ao meu GitHub</h1>
