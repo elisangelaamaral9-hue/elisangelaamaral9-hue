@@ -1,6 +1,6 @@
 <!-- GIF MULHER PROGRAMANDO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250">
+  <img src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://img.freepik.com/vetores-gratis/programador-trabalhando-na-mesa_23-2148288753.jpg?semt=ais_hybrid&w=740&q=80)" width="250">
 </p>
 
 <h1 align="center">👋 Olá! Bem-vindo(a) ao meu GitHub</h1>
@@ -30,16 +30,6 @@
 
 ---
 
-## 📊 Minhas estatísticas
-
-### ⭐ Estatísticas gerais
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elisangelaamaral9-hue&show_icons=true&theme=radical)
-
-### ⭐ Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisangelaamaral9-hue&layout=compact&theme=radical)
-
----
-
 ## 📈 Gráficos do meu desempenho
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elisangelaamaral9-hue&theme=radical)
@@ -52,7 +42,7 @@
 ## 💌 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/elisangela-amaral/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
