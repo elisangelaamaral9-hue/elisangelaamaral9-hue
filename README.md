@@ -1,7 +1,7 @@
 
-<h1 align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGsLO94CY0TjA/profile-displaybackgroundimage-shrink_350_1400/B4DZrgTG8YGQAY-/0/1764699698220?e=1766016000&v=beta&t=blDYfhl8S3h3ehIQ3KCGQH5DWrROgflCBNSA9ZSmIPI" width="250">
-</h1>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGsLO94CY0TjA/profile-displaybackgroundimage-shrink_350_1400/B4DZrgTG8YGQAY-/0/1764699698220?e=1766016000&v=beta&t=blDYfhl8S3h3ehIQ3KCGQH5DWrROgflCBNSA9ZSmIPI" width="80%">
+</p>
 
 <h1 align="center">👋 Olá! Bem-vindo(a) ao meu GitHub</h1>
 
