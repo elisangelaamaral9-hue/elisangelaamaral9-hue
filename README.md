@@ -1,6 +1,6 @@
 <!-- GIF MULHER PROGRAMANDO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://img.freepik.com/vetores-gratis/programador-trabalhando-na-mesa_23-2148288753.jpg?semt=ais_hybrid&w=740&q=80" width="250">
+  <<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250">
 </p>
 
 <h1 align="center">👋 Olá! Bem-vindo(a) ao meu GitHub</h1>
