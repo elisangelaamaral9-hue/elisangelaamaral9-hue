@@ -1,6 +1,8 @@
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px;">
+
 <!-- GIF MULHER PROGRAMANDO -->
 <p align="center">
-  <<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250">
 </p>
 
 <h1 align="center">👋 Olá! Bem-vindo(a) ao meu GitHub</h1>
@@ -50,3 +52,6 @@
 ---
 
 <p align="center">✨ Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos.</p>
+
+</div>
+
