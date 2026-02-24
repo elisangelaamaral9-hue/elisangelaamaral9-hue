@@ -48,6 +48,7 @@ Minha evolução é guiada por:
 ### 🗄️ Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/H2-0A0A0A?style=for-the-badge"/>
 </p>
 
