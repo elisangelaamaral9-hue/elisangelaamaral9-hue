@@ -109,7 +109,7 @@ Criar uma solução real para um problema real, aplicando boas práticas de arqu
   <a href="https://www.linkedin.com/in/elisangela-amaral/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@GMAIL.COM">
+  <a href="mailto:elisangela.a.lira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
