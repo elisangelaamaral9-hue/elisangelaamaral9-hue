@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Elisângela%20Amaral&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20Back-end%20%E2%80%A2%20Construindo%20Produto%20Próprio&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=250&section=header&text=Elisângela%20Amaral&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20Back-end%20%E2%80%A2%20Construindo%20Produto%20Próprio&descAlignY=60&descAlign=50" width="100%"/>
 </div>
+
+<p align="center">
+  <a href="#-sobre-mim">Sobre mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-competências-técnicas">Competências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto-em-destaque">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-estatísticas-github">Estatísticas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-conecte-se-comigo">Contato</a>
+</p>
 
 ---
 

@@ -6,6 +6,10 @@ on:
     - cron: "0 */12 * * *"
   # Permite executar manualmente na aba "Actions"
   workflow_dispatch:
+  # Executa automaticamente sempre que houver um push na branch main
+  push:
+    branches:
+      - main
 
 jobs:
   build:
