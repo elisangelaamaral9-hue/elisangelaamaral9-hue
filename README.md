@@ -65,10 +65,6 @@ Minha evolução é guiada por:
 
 ### 🚀 Pulso CRM
 
-<a href="LINK_DO_SEU_REPOSITORIO_AQUI">
-  <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 Sistema em desenvolvimento voltado para corretores de planos de saúde.
 
 📌 Funcionalidades em construção:
